@@ -1,0 +1,13 @@
+#Part one
+x = "200"
+y = "199"
+print(x-y)
+#Part two
+F = float(input("temp in fahrenheit:10"))
+C = (F - 32) * 5/9
+print(f"{fahrenheit}F is equal to {celsius}C")
+#Part three
+USD = float(input(amount in US currency:100"))
+EU = USD*.97
+print("USD,EU")
+#I couldn't test if my code ran properly as the blade center was down during so I attempted to run it on my own machine and it wouldn't give an option to run the code.
